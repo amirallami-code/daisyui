@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+>
+  <channel>
+    <title>
+      <![CDATA[ daisyUI Store ]]>
+    </title>
+    <description>
+      <![CDATA[ Professional templates made by daisyUI ]]>
+    </description>
+    <link>https://daisyui.com/store/</link>
+    <lastBuildDate>Fri, 04 Sep 2026 22:30:30 GMT</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 22:30:30 GMT</pubDate>
+    <language>en-us</language>
+    <atom:link href="https://daisyui.com/store/rss.xml" rel="self" type="application/rss+xml"/>
+
+    
+        <item>
+          <title>
+            <![CDATA[ Nexus Dashboard 4.1 ]]>
+          </title>
+          <description>
+            <![CDATA[ The ultimate dashboard template
+
+Made with Tailwind CSS 4 and daisyUI 5
+
+Including:
+  - All pages
+  - 8 dashboard layouts (CRM, e-commerce, Gen-AI, Growth, AI Ops, Corporate Finance, Site Reliability Engineering, Security Operations)
+  - Landing page
+  - 10 e-commerce pages with tables, forms, cards, etc
+  - File manager app layout
+  - Chat app layout
+  - 4 pages for the gen-AI app (home, images, content creator, library)
+  - Agentic Storage UI
+  - 4 auth pages including login, register, password reset
+  - Profile settings page and support/FAQ page
+  - Foundation component example
+  - 15+ Ready to use UI blocks
+  - 50+ Common layout examples
+  - 100+ Interaction examples with different plugin integrations
+  - LLM files
+  - Apex charts
+  - 6 exclusive customizable themes
+  - Compatible with all daisyUI themes
+  - 10 bonus dashboard templates (Ecommerce, Finance, Restaurant, Cloths Atelier, CRM, Tourism, Book Management, Crisis Management, Health System, Sport Events) made by [daisyUI Dashboard Skill](http://daisyui.com/skills/daisyui-dashboard/)
+
+
+Solo license:
+  - Includes HTML version
+  - For one developer, one project
+
+
+Team and Enterprise license:
+  - includes HTML, React, Next.js, Nuxt, SvelteKit, Laravel Blade, Elixir Phoenix, Ruby On Rails and Angular versions
+  - For unlimited developers
+  - For unlimited projects (Enterprise only) ]]>
+          </description>
+          <link>undefined/</link>
+          <pubDate>Sun, 28 Apr 2024 00:00:00 GMT</pubDate>
+          <guid isPermaLink="false">undefined/</guid>
+        </item>
+      
+        <item>
+          <title>
+            <![CDATA[ Official daisyUI Figma Library ]]>
+          </title>
+          <description>
+            <![CDATA[ **Available in 3 plans**, Including:
+  - Documentation and step by step tutorial for everything
+  - All daisyUI components (61+)
+  - All daisyUI variants (2500+)
+  - All properties
+  - Variables for all colors of all 35 daisyUI themes
+  - Variables for everything (colors, border-radius, typography, spacing, etc)
+  - 16 simultaneous themes (Quickly switch between daisyUI themes)
+  - Examples for Dashboard and forms
+  - Access to exclusive Discord channel for priority support ]]>
+          </description>
+          <link>undefined/</link>
+          <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+          <guid isPermaLink="false">undefined/</guid>
+        </item>
+      
+        <item>
+          <title>
+            <![CDATA[ Scalo Startup Template 4.0 ]]>
+          </title>
+          <description>
+            <![CDATA[ Scalo is the ultimate startup front-end template
+
+Made with Tailwind CSS 4 and daisyUI 5
+
+Including:
+  - Components and blocks
+  - 40 Pages
+  - 7 Landing pages (Automation, Developer, Sales, Storage, Crypto, Builder, Cloud AI)
+  - 7 Pricing sections (Lifetime, Subscription, User-based & comparison-based)
+  - 6 Auth pages (Login, Register, 2FA, Forgot password, Reset password, Verify)
+  - Settings (Profile, Account, Notification & Manage plans)
+  - Company pages (Team, Careers, Blogs, Timeline, Privacy & more)
+  - Extra pages (Coming soon page, Maintenance page, Notify & Error pages)
+  - Testimonial Sections (Simple + Swiper)
+  - FAQs + Contact Us pages
+  - Included with light & dark themes
+  - Compatible with all daisyUI themes
+
+
+Solo license:
+  - Includes HTML version
+  - For one developer, one project
+
+
+Team and Enterprise license:
+  - includes HTML, React, Next.js, SvelteKit, Nuxt and Laravel versions
+  - For unlimited developers
+  - For unlimited projects (Enterprise only) ]]>
+          </description>
+          <link>undefined/</link>
+          <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+          <guid isPermaLink="false">undefined/</guid>
+        </item>
+      
+        <item>
+          <title>
+            <![CDATA[ daisyUI Charts ]]>
+          </title>
+          <description>
+            <![CDATA[ 
+daisyUI Charts is a collection of chart integrations for daisyUI.
+
+
+- 100 different chart examples, easy to copy
+- Skill files included for LLMs to generate charts using AI
+- Made with daisyUI and Apex Charts
+- Compatible with all daisyUI themes
+- Provides code examples for React, Vue, Svelte, Vanilla JS
+- Only one package dependency: Apex Charts (Or can be used with CDN link instead of Node package)
+- Easy copy/paste codes, no additional config or styles needed
+- Includes multiple examples for line charts, bar charts, area charts, column charts, pie charts, radial chart, radar charts, heatmap charts, mixed charts ]]>
+          </description>
+          <link>undefined/</link>
+          <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+          <guid isPermaLink="false">undefined/</guid>
+        </item>
+      
+        <item>
+          <title>
+            <![CDATA[ HTML Dashboard template 2.0 ]]>
+          </title>
+          <description>
+            <![CDATA[ HTML Admin dashboard template to use in your project right now.
+
+Features:
+  - HTML admin dashboard UI made with daisyUI 5
+  - 90 pages, with every possible UI blocks needed for a dashboard
+  - Web component charts
+  - Framework agnostic. Can be used everywhere
+  - No dependencies. No JS file in production. Uses CDN links for charts
+
+
+Including:
+  - 90 pages, with tables, forms, charts, cards and other daisyUI UI blocks
+    - Dashboard main page
+    - 9 Product management pages: list, new, detail, edit, categories, inventory,
+      stats, performance, logs, tags
+    - 10 User management pages: list, new, detail, edit, roles, role new, role edit,
+      permissions, payments, products, stats, logs
+    - 5 Order management pages: list, detail, fulfillment, returns, abandoned
+      checkouts
+    - 4 Customer management pages: list, detail, segments, notes
+    - 4 Transaction pages: list, detail, refunds, logs
+    - 7 Analytics pages: overview, products, reports, sales, support, traffic, users
+    - 6 Message/support pages: inbox, detail, agents, agent new, agent edit,
+      departments, canned replies
+    - 5 Media pages: library, upload, edit, folders, settings
+    - 5 Blog pages: posts, new post, edit post, categories, tags, comments
+    - 4 Content pages: list, new, edit, revisions
+    - 4 Marketing pages: campaigns, audiences, automations, email
+    - 4 Promotions pages: campaigns, coupons, discounts, gift cards
+    - 8 Settings pages: general, commerce, integrations, notifications, payments,
+      security, shipping, taxes
+    - 4 Plugin pages: list, add, logs, settings
+    - 5 Tools pages: import, export, scheduled jobs, system health, audit logs
+    - daisyUI Skill
+    - AGENTS.md file ]]>
+          </description>
+          <link>https://www.creem.io/payment/prod_1b0GJj59ORMjGvf2G1Czjh/</link>
+          <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+          <guid isPermaLink="false">https://www.creem.io/payment/prod_1b0GJj59ORMjGvf2G1Czjh/</guid>
+        </item>
+      
+        <item>
+          <title>
+            <![CDATA[ Online Store template 2.0 ]]>
+          </title>
+          <description>
+            <![CDATA[ **Fully functional store template for Lemon Squeezy or Gumroad**
+
+Made with daisyUI 5 and Next.js 15
+
+Add your **LemonSqueezy API key** or **Gumroad API key** to the env file, add custom data for your products and your online store will be ready in **less than 5 minutes**!
+
+This template receives your simple list of products coming from the LemonSqueezy API or Gumroad API, adds your custom data and attributes to the products and generates a functional online store with all the standard online store capabilities you need.
+
+Including Homepage, collections page with filter and sort, product page with image gallery, zoom, custom attributes, variant links, related product suggestions and more. ]]>
+          </description>
+          <link>undefined/</link>
+          <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
+          <guid isPermaLink="false">undefined/</guid>
+        </item>
+      
+        <item>
+          <title>
+            <![CDATA[ SaaS landing page ]]>
+          </title>
+          <description>
+            <![CDATA[ Production-ready landing page for software products.
+
+Features:
+  - SaaS landing page layout made with daisyUI 5
+  - Available for HTML, React, Svelte, Vue
+
+
+Including:
+  - 2 exclusive daisyUI themes (dark/light)
+  - Compatible with all daisyUI themes (32 themes)
+  - Responsive layout
+  - Hero section, Partner logos, Features section, Integrations cards, Pricing tables, FAQ accordion section, Footer with links and contact form
+  - Pricing table with dynamic price toggle
+  - Theme changer menu
+  - 3D card effect ]]>
+          </description>
+          <link>https://www.creem.io/payment/prod_4bRdZVMQb6QfydHMXMBjG5/</link>
+          <pubDate>Sat, 23 Dec 2023 00:00:00 GMT</pubDate>
+          <guid isPermaLink="false">https://www.creem.io/payment/prod_4bRdZVMQb6QfydHMXMBjG5/</guid>
+        </item>
+      
+        <item>
+          <title>
+            <![CDATA[ Documentation template ]]>
+          </title>
+          <description>
+            <![CDATA[ Create a modern and clean document site for your open source projects
+
+Features:
+  - Available for Astro and Next.js
+  - Made with Markdown, Tailwind CSS and daisyUI
+  - Search functionality
+  - SEO friendly, Lightweight and fast
+  - Dark mode and Light mode
+
+
+Including:
+  - Homepage with features sections, code demo, contributors images, testimonials and installation guide
+  - Document pages made from Markdown files with Sidebar, page content links, sponsors section
+  - Search bar using Algolia DocSearch
+  - Theme switch button with dark theme and light theme (compatible with all daisyUI themes) ]]>
+          </description>
+          <link>https://www.creem.io/payment/prod_4KKOyL4xExMtlhf3JaPBa8/</link>
+          <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
+          <guid isPermaLink="false">https://www.creem.io/payment/prod_4KKOyL4xExMtlhf3JaPBa8/</guid>
+        </item>
+      
+        <item>
+          <title>
+            <![CDATA[ Blog template 2.0 ]]>
+          </title>
+          <description>
+            <![CDATA[ Fully working multi page blog template made with daisyUI
+
+Available for Astro and Next.js
+
+Features:
+  - Made with Markdown, Tailwind CSS and daisyUI
+  - Layout options for personal blog and company blog
+  - SEO friendly, Lightweight and fast
+  - Dark mode and Light mode
+
+
+Including:
+  - Homepage (with two layout options)
+  - About page
+  - Article page
+  - Articles archive with pagination (with two layout options) ]]>
+          </description>
+          <link>undefined/</link>
+          <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+          <guid isPermaLink="false">undefined/</guid>
+        </item>
+      
+        <item>
+          <title>
+            <![CDATA[ Blink template ]]>
+          </title>
+          <description>
+            <![CDATA[ Blink is a multi-page template for agencies, companies, startups, or small businesses <br/>Available for React and Svelte
+
+Features:
+  - Made with Tailwind CSS and daisyUI
+  - Compatible with all daisyUI themes
+  - Clean, responsive, easy to customize
+  - Dark and light theme switch button
+
+Including:
+  - 4 different landing page layouts (Agency, SaaS, Startup, Marketing)
+  - Pricing page and pricing table
+  - Projects (portfolio) page
+  - About page
+  - Contact form ]]>
+          </description>
+          <link>undefined/</link>
+          <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
+          <guid isPermaLink="false">undefined/</guid>
+        </item>
+      
+        <item>
+          <title>
+            <![CDATA[ Auth template 2.0 ]]>
+          </title>
+          <description>
+            <![CDATA[ Professionally designed auth pages to use in your project right away.
+
+Features:
+  - 12 HTML pages made with daisyUI 5
+  - Compatible with all daisyUI themes
+  - Framework agnostic. Can be used everywhere
+
+
+Including:
+  - Login page (4 different designs)
+  - Signup page (4 different designs)
+  - Password recovery page (4 different designs)
+  - Client-side validation and validation styles
+  - Dark mode and light mode toggle ]]>
+          </description>
+          <link>https://www.creem.io/payment/prod_5WTF3NMjAyFXqUppgngpBP/</link>
+          <pubDate>Sat, 11 Nov 2023 00:00:00 GMT</pubDate>
+          <guid isPermaLink="false">https://www.creem.io/payment/prod_5WTF3NMjAyFXqUppgngpBP/</guid>
+        </item>
+      
+        <item>
+          <title>
+            <![CDATA[ Mobile app landing page ]]>
+          </title>
+          <description>
+            <![CDATA[ Landing page for mobile app introduction.
+
+Features:
+  - A landing page layout made with daisyUI 5
+  - Available for HTML, React, Svelte, Vue
+
+
+Including:
+  - 2 exclusive daisyUI themes (dark/light)
+  - Compatible with all daisyUI themes (32 themes)
+  - Responsive layout
+  - Navbar, Hero section with gradient background, mobile mockups, stats, features section, testimonial slider, FAQ, footer with email form and social media icons
+  - Theme changer menu ]]>
+          </description>
+          <link>https://www.creem.io/payment/prod_5P3uPzHqmIapdYrfcN3kYa/</link>
+          <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+          <guid isPermaLink="false">https://www.creem.io/payment/prod_5P3uPzHqmIapdYrfcN3kYa/</guid>
+        </item>
+      
+  </channel>
+</rss>
